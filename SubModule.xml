@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+    <Name value="YSBCaptain"/>
+    <Id value="YSBCaptain"/>
+    <Version value="v1.1.1"/>
+    <SingleplayerModule value="false"/>
+    <MultiplayerModule value="true"/>
+    <DependedModules>
+        <DependedModule Id="Native"/>
+        <DependedModule Id="SandBoxCore"/>
+        <DependedModule Id="Sandbox"/>
+        <DependedModule Id="CustomBattle"/>
+    </DependedModules>
+    <SubModules>
+        <SubModule>
+            <Name value="YSBCaptain"/>
+            <DLLName value="YSBCaptain.dll"/>
+            <SubModuleClassType value="YSBCaptain.YSBCaptainSubModule"/>
+            <Tags>
+                <Tag key="DedicatedServerType" value="DedicatedServer"/>
+                <Tag key="IsNoRenderModeElement" value="true"/>
+            </Tags>
+        </SubModule>
+    </SubModules>
+    <Xmls></Xmls>
+</Module>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+    <Name value="YSBCaptain"/>
+    <Id value="YSBCaptain"/>
+    <Version value="v1.0.0"/>
+    <DefaultModule value="false"/>
+    <ModuleCategory value="Multiplayer"/>
+    <DependedModules>
+        <DependedModule Id="Native" DependentVersion="v1.0.0"/>
+    </DependedModules>
+    <SubModules>
+        <SubModule>
+            <Name value="YSBCaptain"/>
+            <DLLName value="YSBCaptain.dll"/>
+            <SubModuleClassType value="YSBCaptain.Core.Module"/>
+            <Tags/>
+        </SubModule>
+    </SubModules>
+</Module>

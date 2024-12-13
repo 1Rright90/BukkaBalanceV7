@@ -1,0 +1,3 @@
+f:\NyeFilerEfterD.17I11\Portable\Documents\Pictures\Ny mappe (4)\YSBCaptain\obj\x64\Debug\YSBCaptain.csproj.AssemblyReference.cache
+f:\NyeFilerEfterD.17I11\Portable\Documents\Pictures\Ny mappe (4)\YSBCaptain\obj\x64\Debug\YSBCaptain.GeneratedMSBuildEditorConfig.editorconfig
+f:\NyeFilerEfterD.17I11\Portable\Documents\Pictures\Ny mappe (4)\YSBCaptain\obj\x64\Debug\YSBCaptain.csproj.CoreCompileInputs.cache

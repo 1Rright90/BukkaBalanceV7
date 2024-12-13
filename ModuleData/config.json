@@ -1,0 +1,10 @@
+{
+  "ModuleName": "YSBCaptain",
+  "ModuleVersion": "1.0.0",
+  "IsDebugMode": false,
+  "EnableMemoryProfiling": true,
+  "EnablePerformanceMonitoring": true,
+  "LogLevel": "Information",
+  "GameDirectory": "$(BANNERLORD_GAME_DIR)",
+  "ModuleDirectory": "$(BANNERLORD_GAME_DIR)\\Modules\\YSBCaptain"
+}
